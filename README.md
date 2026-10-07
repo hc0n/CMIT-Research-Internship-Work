@@ -1,2 +1,2 @@
 # CMIT-Research-Internship-Work
-CMIT Summer Research Internship work which covers the basics of deep learning.
+Deep learning coursework and projects from the CMIT Summer Research Internship
